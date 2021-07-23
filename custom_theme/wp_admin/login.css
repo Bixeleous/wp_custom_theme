@@ -1,0 +1,12 @@
+.login h1 a {
+  background-image: url("http://localhost/wp-app//wp-content/uploads/login_image.jpg");
+  /* display: none; */
+}
+
+.login h1:before {
+  content: "Welcome , you can login here";
+}
+
+body {
+  background-color: #f2d5d5;
+}
